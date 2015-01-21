@@ -1,0 +1,9 @@
+numpy
+ipython[all]
+matplotlib
+scipy
+uncertainties
+pandas
+statsmodels
+patsy
+lxml

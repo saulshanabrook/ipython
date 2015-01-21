@@ -1,0 +1,5 @@
+seaborn
+geopy[placefinder]
+fastkml
+shapely
+pysal
