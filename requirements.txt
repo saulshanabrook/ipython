@@ -1,0 +1,4 @@
+seaborn
+uncertainties
+statsmodels
+patsy
