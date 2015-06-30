@@ -1,4 +1,4 @@
-seaborn==0.5.1
+seaborn==0.6.0
 uncertainties==2.4.6.1
 statsmodels==0.6.1
 patsy==0.3.0
