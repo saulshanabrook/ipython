@@ -1,6 +1,6 @@
 seaborn==0.7.1
 uncertainties==3.0.1
-statsmodels==0.6.1
+statsmodels==0.8.0
 patsy==0.4.1
 Pygments
 fn
